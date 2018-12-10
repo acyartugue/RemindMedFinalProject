@@ -25,6 +25,8 @@
             android:exported="true"
 
             />
+        <activity android:name=".ViewListContents"></activity>
+        <activity android:name=".EnterName"></activity>
 
     </application>
 
